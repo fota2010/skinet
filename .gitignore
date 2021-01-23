@@ -1,0 +1,8 @@
+obj
+bin
+appsettings.json
+*.db
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/skinet/v16/.suo
